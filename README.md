@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sscott321
-- 👀 I’m interested in ... Cybersecurity, software development, astronomy, music
+- 👀 I’m interested in ... Cybersecurity, Software Engineering, Astronomy, Music
 - 🌱 I’m currently learning ... Cybersecurity and Information Assurance
 - 💞️ I’m looking to collaborate on ... n/a
 - 📫 How to reach me ... scottba321@gmail.com
